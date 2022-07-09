@@ -37,7 +37,7 @@
     "boundary_thresh":3,
     "keep_isolated_pixels":false,
     "min_number_picture_neighbors":2,
-    "use_only_main_island":false,
+    "use_only_main_island":true,
     "delta_time": 2
   },
   "tailcuts_clean_with_pedestal_threshold": {
