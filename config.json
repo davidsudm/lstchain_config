@@ -38,7 +38,7 @@
     "keep_isolated_pixels":false,
     "min_number_picture_neighbors":2,
     "use_only_main_island":false,
-    "delta_time": 1
+    "delta_time": 0.5
   },
   "tailcuts_clean_with_pedestal_threshold": {
     "picture_thresh":6,
@@ -47,7 +47,7 @@
     "keep_isolated_pixels":false,
     "min_number_picture_neighbors":2,
     "use_only_main_island":false,
-    "delta_time": 1
+    "delta_time": 0.5
   },
     "random_forest_regressor_args": {
     "max_depth": 50,
