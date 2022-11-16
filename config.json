@@ -33,16 +33,16 @@
   },
 
   "tailcut": {
-    "picture_thresh":3,
-    "boundary_thresh":1,
+    "picture_thresh":4,
+    "boundary_thresh":2,
     "keep_isolated_pixels":false,
     "min_number_picture_neighbors":2,
     "use_only_main_island":false,
     "delta_time":1
   },
   "tailcuts_clean_with_pedestal_threshold": {
-    "picture_thresh":3,
-    "boundary_thresh":1,
+    "picture_thresh":4,
+    "boundary_thresh":2,
     "sigma":2.5,
     "keep_isolated_pixels":false,
     "min_number_picture_neighbors":2,
